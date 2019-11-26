@@ -7,6 +7,9 @@
 
 ## Instructions
 
+To play the game, the player must reach the other side of the road. If the player reaches the other side 5 times, the level advances
+and the enemies become faster.
+
 Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
 
 Classic Arcade Game Clone
