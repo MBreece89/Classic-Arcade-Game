@@ -6,8 +6,10 @@
 - [Contributing](#contributing)
 
 ## Instructions
-
-To play the game, the player must reach the other side of the road. If the player reaches the other side 5 times, the level advances
+To run the game, open the index.html in a browser.
+To play the game, the player must reach the other side of the road.
+Use the arrow keys to move up, down left and right.
+If the player reaches the other side 5 times, the level advances
 and the enemies become faster.
 
 Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
